@@ -35,7 +35,7 @@ Register Number :212224220065
 ```
 ### MainActivity.java
 ```
-package com.example.audioplayer;
+package com.example.audio;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
@@ -111,6 +111,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+
 ```
 ### activity_main.xml
 ```
@@ -161,13 +162,15 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 
+
 ```
 
 
 
 ## OUTPUT
 
-<img width="638" height="376" alt="Screenshot 2026-11-24 090459" src="https://github.com/user-attachments/assets/0de6896a-9702-45e7-b9ad-1eeb9d379dca" />
+<img width="1920" height="1200" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/2d742873-b7aa-40f7-9b73-839e10d80a39" />
+
 
 
 
